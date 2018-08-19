@@ -1,0 +1,41 @@
+/*@media screen and (max-width: 640px){
+	container{
+		width: 100%;
+	}
+}*/
+
+panel{
+	width: 100%;
+}
+
+.jumbotron{
+	background-color: lightblue;
+	
+	color: darkslategrey;
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+
+.panel-heading{
+	padding-top: 0.25%;
+}
+
+.panel-success .panel-heading {
+    color: darkslategrey;
+    background-color: lightblue;
+    border-color:  lightblue;
+}
+
+.text-success {
+    color: darkslategray;
+}
+
+.btn-success {
+    color: darkslategrey;
+    background-color: lightblue;
+    border-color:  lightblue;
+}
+
+.panel-success {
+    border-color: lightblue;
+}
